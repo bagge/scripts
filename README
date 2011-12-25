@@ -1,0 +1,7 @@
+This repository contains various misc scripts that could be
+useful.
+
+Scripts that are specific to ubuntu are prefixed with "ubuntu_".
+Scripts specific for lubuntu are prefixed with "lubuntu_".
+Non-prefixed scripts should not we dependent on distro (more or less).
+
